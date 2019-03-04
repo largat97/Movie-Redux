@@ -1,0 +1,9 @@
+.searchContainer{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+}
+.search{
+width: 230px;
+height: 35px;
+}
